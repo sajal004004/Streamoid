@@ -1,0 +1,101 @@
+sku,name,brand,color,size,mrp,price,quantity
+TSHIRT-001,Classic Cotton T-Shirt,StreamThreads,Navy,L,899,699,15
+TSHIRT-002,V-Neck Premium Tee,StreamThreads,White,M,799,599,25
+TSHIRT-003,Round Neck Basic Tee,StreamThreads,Black,S,699,499,30
+TSHIRT-004,Graphic Print T-Shirt,UrbanEdge,Red,XL,999,749,20
+TSHIRT-005,Striped Casual Tee,UrbanEdge,Blue,L,849,649,18
+POLO-006,Classic Polo Shirt,StreamThreads,Green,M,1299,999,12
+POLO-007,Sports Polo,FitZone,Navy,L,1499,1699,15
+POLO-008,Embroidered Polo,StyleCraft,White,XL,1799,1399,8
+,Heritage Polo Shirt,StreamThreads,Maroon,M,1299,999,10
+JEANS-010,Slim Fit Denim,DenimWorks,Blue,32,1999,1599,22
+JEANS-011,Straight Fit Jeans,DenimWorks,Black,34,2199,1799,-5
+JEANS-012,Skinny Fit Jeans,TrendDenim,Grey,30,2499,1999,15
+JEANS-013,Relaxed Fit Jeans,,Blue,36,1899,1499,20
+JEANS-014,Distressed Denim,TrendDenim,Black,32,2799,2199,10
+DRESS-015,Floral Summer Dress,BloomWear,Pink,M,2499,1999,12
+DRESS-016,Evening Gown,ElegantWear,Black,L,4999,3999,5
+DRESS-017,Maxi Dress,BloomWear,Blue,S,2899,2299,8
+DRESS-018,Cocktail Dress,ElegantWear,Red,M,2999,3499,6
+DRESS-019,A-Line Dress,BloomWear,Yellow,L,2699,2099,10
+DRESS-020,,StyleCraft,Green,M,2999,2399,7
+SHOE-021,Running Sneakers,StrideLab,White,UK8,2999,2499,25
+SHOE-022,Canvas Shoes,StrideLab,Navy,UK7,1999,1599,30
+SHOE-023,Formal Leather Shoes,ClassicFoot,Black,UK9,3999,3299,15
+SHOE-024,,StrideLab,Grey,UK8,2499,1999,20
+SHOE-025,High-Top Sneakers,StrideLab,Red,UK10,3299,2699,12
+KURTA-026,Cotton Kurta,Ethniq,White,M,1599,1299,18
+KURTA-027,Silk Kurta,Ethniq,Blue,L,2499,1999,10
+KURTA-028,Printed Kurta,TraditionWear,Maroon,XL,1799,1449,-10
+KURTA-029,Embroidered Kurta,Ethniq,Cream,M,2199,1799,12
+KURTA-030,Short Kurta,TraditionWear,Black,S,1499,1199,20
+SAREE-031,Silk Saree,Ethniq,Red,Free,6999,5999,5
+SAREE-032,Cotton Saree,TraditionWear,Blue,Free,2999,2499,8
+SAREE-033,Designer Saree,Ethniq,Pink,Free,8999,7499,3
+SAREE-034,Banarasi Saree,TraditionWear,Green,Free,0,6499,4
+SAREE-035,Printed Saree,Ethniq,Yellow,Free,3499,2799,10
+SHIRT-036,Formal White Shirt,ButtonUp,White,M,1899,1499,25
+SHIRT-037,Checked Casual Shirt,ButtonUp,Multi,L,1799,1399,20
+SHIRT-038,Denim Shirt,DenimWorks,Blue,XL,2199,1799,15
+SHIRT-039,Linen Shirt,ButtonUp,Beige,M,2499,0,12
+SHIRT-040,Oxford Shirt,ButtonUp,Blue,L,1999,1599,18
+HOODIE-041,Zip-Up Hoodie,SnugWear,Black,M,2199,1799,16
+HOODIE-042,Pullover Hoodie,SnugWear,Grey,L,1999,1599,20
+HOODIE-043,Graphic Hoodie,UrbanEdge,Navy,XL,2399,1899,14
+HOODIE-044,,SnugWear,Maroon,M,2299,1799,12
+HOODIE-045,Tech Hoodie,FitZone,Black,L,2999,2399,8
+JACKET-046,Denim Jacket,DenimWorks,Blue,M,3499,2799,10
+JACKET-047,Bomber Jacket,UrbanEdge,Black,L,3999,3199,8
+JACKET-048,Leather Jacket,RockStyle,Brown,XL,7999,6499,5
+JACKET-049,Windbreaker,FitZone,Navy,M,1999,2499,15
+JACKET-050,Puffer Jacket,WinterWear,Black,L,4499,3599,12
+SHORTS-051,Cargo Shorts,UrbanEdge,Khaki,M,1299,999,25
+SHORTS-052,Denim Shorts,DenimWorks,Blue,32,1499,1199,20
+SHORTS-053,Athletic Shorts,FitZone,Black,L,999,799,-15
+SHORTS-054,Bermuda Shorts,StyleCraft,Beige,M,1399,1099,18
+SHORTS-055,Chino Shorts,ButtonUp,Navy,L,1599,1299,22
+SKIRT-056,Pleated Skirt,BloomWear,Black,M,1799,1399,15
+SKIRT-057,Mini Skirt,StyleCraft,Red,S,1299,999,20
+SKIRT-058,Maxi Skirt,BloomWear,Blue,L,1999,1599,12
+SKIRT-059,A-Line Skirt,,Grey,M,1699,1349,18
+SKIRT-060,Denim Skirt,DenimWorks,Black,M,1899,1499,16
+TROUSER-061,Formal Trousers,ButtonUp,Black,32,2199,1799,20
+TROUSER-062,Chino Trousers,StyleCraft,Beige,34,1999,1599,25
+TROUSER-063,Slim Fit Trousers,ButtonUp,Navy,32,2399,1899,18
+TROUSER-064,Pleated Trousers,StyleCraft,Grey,36,1799,2299,15
+TROUSER-065,Cargo Trousers,UrbanEdge,Olive,34,2499,1999,12
+LEGGING-066,Yoga Leggings,FitZone,Black,M,1299,999,30
+LEGGING-067,Printed Leggings,FitZone,Multi,L,1499,1199,25
+LEGGING-068,High-Waist Leggings,FitZone,Navy,S,1399,1099,28
+LEGGING-069,Capri Leggings,FitZone,Grey,M,1199,899,-20
+LEGGING-070,Compression Leggings,FitZone,Black,L,1799,1399,20
+SWEATER-071,Wool Sweater,WinterWear,Maroon,M,2999,2399,15
+SWEATER-072,Cable Knit Sweater,WinterWear,Cream,L,3299,2699,12
+SWEATER-073,Cardigan Sweater,SnugWear,Grey,XL,2799,2199,18
+SWEATER-074,V-Neck Sweater,,Navy,M,2699,2099,16
+SWEATER-075,Turtleneck Sweater,WinterWear,Black,L,3199,2599,10
+BAG-076,Tote Bag,CarryCo,Beige,OneSize,899,699,35
+BAG-077,Backpack,CarryCo,Black,OneSize,1999,1599,25
+BAG-078,Messenger Bag,CarryCo,Brown,OneSize,1399,1799,20
+BAG-079,Clutch Bag,ElegantWear,Gold,OneSize,1499,1199,15
+BAG-080,Duffle Bag,FitZone,Navy,OneSize,2499,1999,18
+BELT-081,Leather Belt,CarryCo,Black,38,1199,899,40
+BELT-082,Canvas Belt,UrbanEdge,Khaki,40,599,449,50
+BELT-083,Formal Belt,ButtonUp,Brown,36,999,749,35
+BELT-084,Reversible Belt,CarryCo,Black/Brown,38,1399,1099,28
+BELT-085,Braided Belt,StyleCraft,Tan,40,799,599,32
+SCARF-086,Silk Scarf,ElegantWear,Red,Free,1299,999,20
+SCARF-087,Wool Scarf,WinterWear,Grey,Free,1499,1199,25
+SCARF-088,Pashmina Shawl,Ethniq,Cream,Free,2999,2399,12
+SCARF-089,,BloomWear,Blue,Free,899,699,30
+SCARF-090,Printed Scarf,StyleCraft,Multi,Free,1099,849,22
+CAP-091,Baseball Cap,UrbanEdge,Black,OneSize,599,449,45
+CAP-092,Snapback Cap,FitZone,Navy,OneSize,699,549,40
+CAP-093,Beanie Hat,WinterWear,Grey,OneSize,499,399,50
+CAP-094,Bucket Hat,StyleCraft,Khaki,OneSize,799,599,35
+CAP-095,Fedora Hat,ElegantWear,Brown,OneSize,1299,999,15
+SOCKS-096,Cotton Socks Pack,BasicWear,Multi,Free,299,249,100
+SOCKS-097,Ankle Socks,FitZone,White,Free,199,149,120
+SOCKS-098,Wool Socks,WinterWear,Grey,Free,399,299,80
+SOCKS-099,Compression Socks,FitZone,Black,Free,599,449,60
+SOCKS-100,Printed Socks,StyleCraft,Multi,Free,349,249,90
