@@ -399,60 +399,13 @@ The API provides clear error messages for common scenarios:
 
 ---
 
-## 🚀 Deployment
 
-### Production Considerations
 
-1. **Use PostgreSQL for production:**
-   ```env
-   DATABASE_URL=postgresql://user:password@host:5432/dbname
-   ```
 
-2. **Set up proper CORS origins in `main.py`:**
-   ```python
-   app.add_middleware(
-       CORSMiddleware,
-       allow_origins=["https://yourdomain.com"],
-       ...
-   )
-   ```
 
-3. **Use environment variables for sensitive data**
 
-4. **Enable HTTPS in production**
 
-5. **Set up logging and monitoring**
 
----
-
-## 📝 License
-
-This project is created as part of a technical assessment.
-
----
-
-## 👨‍💻 Author
-
-Created for Streamoid Technologies Technical Assessment
-
----
-
-## 🤝 Support
-
-For issues or questions:
-1. Check the API documentation at http://localhost:8000/docs
-2. Review the test cases for usage examples
-3. Ensure all dependencies are properly installed
-
----
-
-## ✨ Features Checklist
-
-- ✅ CSV Upload & Parsing
-- ✅ Data Validation (price ≤ MRP, quantity ≥ 0, required fields)
-- ✅ Database Storage (SQLite)
-- ✅ List Products API with Pagination
-- ✅ Search API (brand, color, price range filters)
 - ✅ Comprehensive Unit Tests
 - ✅ Docker Support
 - ✅ Complete API Documentation
